@@ -7,3 +7,5 @@ This is catually very exciting and fun
 
 
 I can code code code
+
+git config-- local username "John Doe"
